@@ -3,7 +3,7 @@
 	<img src="assets/GandalfLogo.png" alt="Gandalf Logo" width="350px"/>
 </a>
 	<h1 align="center"> Gandalf </h1>
-	<h3 align="center"> <i>"Thou shall not pass me!"<i> </h3>
+	<h3 align="center"> <i>"Thou shall not pass!"<i> </h3>
 </p>
 
 Customizable Smart Firewall filtering websites on the basis of content in the website.
@@ -11,12 +11,12 @@ Customizable Smart Firewall filtering websites on the basis of content in the we
 
 ## About
 Imagine an office scenario where a task is given to a particular employee, but instead of completing it, he/she wastes all their time playing online mini-games or scrolling through social media. No work gets done resulting in the employee getting scrutinized or worse, fired. Honestly we cannot blame the employee, because most office tasks can be very tedious and boring resulting in them slacking off during office hours. But those can prove to be consequential and disastrous for their life ahead in the future.
-Hence we bring to you **Gandalf**! It is a one-of-a-kind *Smart Firewall* which helps censor the company’s network to avoid web-traffic  of those websites which demeans the productivity levels of the employees. These websites can be *online mini-games(like club-penguin or Deluge RPG which seems way more interesting than office tasks), social media like twitter and facebook(which is very addictive), sites with obscene content(namely porn) and other entertainment sites(like Netflix)*. **Gandalf**  simply blocks the user from accessing these URL.
+Hence we bring to you **Gandalf**! It is a one-of-a-kind *Smart Firewall* which helps censor the company’s network to avoid web-traffic  of those websites which demeans the productivity levels of the employees. These websites can be *online mini-games (like club-penguin or Deluge RPG which seems way more interesting than office tasks), social media like Twitter and Facebook (which is very addictive), sites with obscene content (namely porn) and other entertainment sites(like Netflix)*. **Gandalf**  simply blocks the user from accessing these URL.
 
 ## Features
-- [X] Blocks Websites on the Basis of Content
-- [X] Uses Deep Learning to improve itself every time
-- [X] Customizable according to organizations needs
+- [ ] Blocks Websites on the Basis of Content
+- [ ] Uses Deep Learning to improve itself every time
+- [ ] Customizable according to organizations needs
 
 
 ---
