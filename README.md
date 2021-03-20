@@ -82,9 +82,6 @@ Pranjal Timsina
 </p>
 </td>
 
-
-</tr>
-<tr>
 <td>
 
 Yajat Malhotra
