@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://visheshbansal.ml">
-	<img src="assets/GandalfLogo.pngLogo.png" alt="Gandalf Logo" width="350px"/>
+<a href="github.com/Atom-Heart-Father/Gandalf">
+	<img src="assets/GandalfLogo.png" alt="Gandalf Logo" width="350px"/>
 </a>
 	<h1 align="center"> Gandalf </h1>
 	<h3 align="center"> <i>"Thou shall not pass me!"<i> </h3>
