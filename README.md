@@ -14,9 +14,9 @@ Imagine an office scenario where a task is given to a particular employee, but i
 Hence we bring to you **Gandalf**! It is a one-of-a-kind *Smart Firewall* which helps censor the company’s network to avoid web-traffic  of those websites which demeans the productivity levels of the employees. These websites can be *online mini-games (like club-penguin or Deluge RPG which seems way more interesting than office tasks), social media like Twitter and Facebook (which is very addictive), sites with obscene content (namely porn) and other entertainment sites(like Netflix)*. **Gandalf**  simply blocks the user from accessing these URL.
 
 ## Features
-- [ ] Blocks Websites on the Basis of Content
+- [X] Blocks Websites on the Basis of Content
 - [ ] Uses Deep Learning to improve itself every time
-- [ ] Customizable according to organizations needs
+- [X] Customizable according to organizations needs
 
 
 ---
@@ -30,6 +30,9 @@ Hence we bring to you **Gandalf**! It is a one-of-a-kind *Smart Firewall* which 
 * [Backend](https://github.com/Atom-Heart-Father/Gandalf-backend)
 * [App](https://github.com/Atom-Heart-Father/Gandalf-app)
 * [Data Collection and Cleaning](https://github.com/Atom-Heart-Father/Gandalf-Scraper)
+* [Broker](https://github.com/Atom-Heart-Father/gandalf-broker)
+* [ML](https://github.com/Atom-Heart-Father/gandalf-ml)
+* [ML-API](https://github.com/Atom-Heart-Father/gandalf-ml-api)
 
 
 ## Contributors
