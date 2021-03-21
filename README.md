@@ -28,7 +28,7 @@ Hence we bring to you **Gandalf**! It is a one-of-a-kind *Smart Firewall* which 
 
 * [Frontend](https://github.com/Atom-Heart-Father/Gandalf-frontend)
 * [Backend](https://github.com/Atom-Heart-Father/Gandalf-backend)
-* [App](https://github.com/Atom-Heart-Father/Gandalf-app)
+<!-- * [App](https://github.com/Atom-Heart-Father/Gandalf-app) -->
 * [Data Collection and Cleaning](https://github.com/Atom-Heart-Father/Gandalf-Scraper)
 * [Broker](https://github.com/Atom-Heart-Father/gandalf-broker)
 * [ML](https://github.com/Atom-Heart-Father/gandalf-ml)
